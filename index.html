@@ -88,8 +88,7 @@
     var xscale = d3.scale.linear().range([0, chartWidth]);
     var yscale = d3.scale.linear().range([0, chartHeight]);
     var color = d3.scale.ordinal()
-    .domain(['next_25%', 'top_25%', 'groups','pages', 'top_25_pages'])
-    .range(["#5BA28D", "#DE3724", "#0F3382", "#F2C938","#F2D938"]);
+  .range(["#5BA28D", "#DE3724", "#0F3382", "#F2C938", "#FFD43A", "#FFC20C", "#FFD335", "#FFDC5E", "#FF3E20", "#DE4024", "#FF623E", "#006182", "#203F82", "#425FB7", "#84D8FF", "#66BA5B", "#28A37E", "#6EA374"]);
     var headerHeight = 20;
     var headerColor = "#232323"; 
     var transitionDuration = 500;
@@ -113,7 +112,7 @@
     d3.json("test.json", function(data) {
         node = root = data;
         var nodes = treemap.nodes(root);
-        console.log(nodes)
+
         var children = nodes.filter(function(d) {
             return !d.children;
         });
