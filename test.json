@@ -671,7 +671,7 @@
         }
     ]}, 
   {"name": "pages", "children":[ 
-    {"name": "top_25%", 
+    {"name": "top_25_pages", 
       "children":[
       {
         "name":"Tasty",
