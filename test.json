@@ -1,0 +1,830 @@
+{"name": "Facebook", "children":[ 
+  {"name": "user", "children":[ 
+    {"name": "top_25%", 
+    "children":[
+        {
+          "name":"Helen Ye",
+          "type":"user",
+          "Score":0.34826933,
+          "size":1
+        },
+        {
+          "name":"Saba Imran",
+          "type":"user",
+          "Score":0.348817301,
+          "size":2
+        },
+        {
+          "name":"Ambika Dubey",
+          "type":"user",
+          "Score":0.348990663,
+          "size":2
+        },
+        {
+          "name":"Phillip Shih",
+          "type":"user",
+          "Score":0.349348044,
+          "size":2
+        },
+        {
+          "name":"Josh Vorick",
+          "type":"user",
+          "Score":0.349874424,
+          "size":3
+        },
+        {
+          "name":"Amy Maniola",
+          "type":"user",
+          "Score":0.350653191,
+          "size":4
+        },
+        {
+          "name":"Rishi Thakker",
+          "type":"user",
+          "Score":0.350878097,
+          "size":4
+        },
+        {
+          "name":"Joshua Mathew",
+          "type":"user",
+          "Score":0.351096021,
+          "size":4
+        },
+        {
+          "name":"Soumik Biswas",
+          "type":"user",
+          "Score":0.351169811,
+          "size":4
+        },
+        {
+          "name":"Dhruv Rastogi",
+          "type":"user",
+          "Score":0.351752023,
+          "size":5
+        },
+        {
+          "name":"Abhishek Johri",
+          "type":"user",
+          "Score":0.351871722,
+          "size":5
+        },
+        {
+          "name":"Manasa Sanka",
+          "type":"user",
+          "Score":0.352179416,
+          "size":5
+        },
+        {
+          "name":"Aadhya Gupta",
+          "type":"user",
+          "Score":0.352431667,
+          "size":5
+        },
+        {
+          "name":"Nathan Pitchaikani",
+          "type":"user",
+          "Score":0.352702298,
+          "size":6
+        },
+        {
+          "name":"John Juneau II",
+          "type":"user",
+          "Score":0.352709471,
+          "size":6
+        },
+        {
+          "name":"Nick Vucovich",
+          "type":"user",
+          "Score":0.352736608,
+          "size":6
+        },
+        {
+          "name":"Rima Soni",
+          "type":"user",
+          "Score":0.352970505,
+          "size":6
+        },
+        {
+          "name":"Sathvika Ashokkumar",
+          "type":"user",
+          "Score":0.353513351,
+          "size":6
+        },
+        {
+          "name":"Sudarshan Govindaprasad",
+          "type":"user",
+          "Score":0.353659785,
+          "size":7
+        },
+        {
+          "name":"Shivani Jagarlamudi",
+          "type":"user",
+          "Score":0.353675024,
+          "size":7
+        },
+        {
+          "name":"Aishwarya Nadella",
+          "type":"user",
+          "Score":0.354454786,
+          "size":7
+        },
+        {
+          "name":"Jigar Patel",
+          "type":"user",
+          "Score":0.355306281,
+          "size":8
+        },
+        {
+          "name":"Ying Chen",
+          "type":"user",
+          "Score":0.359501995,
+          "size":12
+        },
+        {
+          "name":"Roshan Rajan",
+          "type":"user",
+          "Score":0.359803098,
+          "size":13
+        },
+        {
+          "name":"Andrew Ma",
+          "type":"user",
+          "Score":0.360346577,
+          "size":13
+        },
+        {
+          "name":"Sahana Srivatsan",
+          "type":"user",
+          "Score":0.36051557,
+          "size":13
+        },
+        {
+          "name":"Aveen Sharma",
+          "type":"user",
+          "Score":0.360825176,
+          "size":14
+        },
+        {
+          "name":"Elias Waddington",
+          "type":"user",
+          "Score":0.361373857,
+          "size":14
+        },
+        {
+          "name":"Rohan Seth",
+          "type":"user",
+          "Score":0.36138831,
+          "size":14
+        },
+        {
+          "name":"Abhyuday Sooriyeh",
+          "type":"user",
+          "Score":0.361501174,
+          "size":14
+        },
+        {
+          "name":"Athena Hung",
+          "type":"user",
+          "Score":0.36156711,
+          "size":14
+        },
+        {
+          "name":"Kush Maheshwari",
+          "type":"user",
+          "Score":0.362709693,
+          "size":16
+        },
+        {
+          "name":"Meg Ramsland",
+          "type":"user",
+          "Score":0.362954939,
+          "size":16
+        },
+        {
+          "name":"Ann Rajan",
+          "type":"user",
+          "Score":0.365126997,
+          "size":18
+        },
+        {
+          "name":"Arnav Mishra",
+          "type":"user",
+          "Score":0.365579548,
+          "size":19
+        },
+        {
+          "name":"Robbie Ng",
+          "type":"user",
+          "Score":0.366105955,
+          "size":19
+        },
+        {
+          "name":"Qianwen Liu",
+          "type":"user",
+          "Score":0.367000516,
+          "size":20
+        },
+        {
+          "name":"Aaminah Long",
+          "type":"user",
+          "Score":0.367103621,
+          "size":20
+        },
+        {
+          "name":"Kevin Nadro",
+          "type":"user",
+          "Score":0.367832658,
+          "size":21
+        },
+        {
+          "name":"Shivani Patel",
+          "type":"user",
+          "Score":0.368444156,
+          "size":21
+        },
+        {
+          "name":"Abigail Kumar",
+          "type":"user",
+          "Score":0.369493882,
+          "size":22
+        },
+        {
+          "name":"Tanvi Agarwalla",
+          "type":"user",
+          "Score":0.370166253,
+          "size":23
+        },
+        {
+          "name":"Harshit Kumar",
+          "type":"user",
+          "Score":0.3702104,
+          "size":23
+        },
+        {
+          "name":"Nikhil Mathews",
+          "type":"user",
+          "Score":0.370832533,
+          "size":24
+        },
+        {
+          "name":"Faraaz Zaidi",
+          "type":"user",
+          "Score":0.370868541,
+          "size":24
+        },
+        {
+          "name":"Anish Rangineni",
+          "type":"user",
+          "Score":0.371143313,
+          "size":24
+        },
+        {
+          "name":"Ash Krishnan",
+          "type":"user",
+          "Score":0.371389584,
+          "size":24
+        },
+        {
+          "name":"Vaishali Khandelwal",
+          "type":"user",
+          "Score":0.371644175,
+          "size":25
+        },
+        {
+          "name":"Sohinee Oswal",
+          "type":"user",
+          "Score":0.371932058,
+          "size":25
+        }
+      ]},
+
+    {"name": "next_25%", 
+      "children":[
+        {
+          "name":"Andrew Labs",
+          "type":"user",
+          "Score":0.372688356,
+          "size":26
+        },
+        {
+          "name":"Sanjana Shah",
+          "type":"user",
+          "Score":0.373393506,
+          "size":26
+        },
+        {
+          "name":"Soumyaa Mazumder",
+          "type":"user",
+          "Score":0.373638698,
+          "size":27
+        },
+        {
+          "name":"Sheena Panthaplackel",
+          "type":"user",
+          "Score":0.375560331,
+          "size":28
+        },
+        {
+          "name":"Patrick Paz",
+          "type":"user",
+          "Score":0.375631307,
+          "size":29
+        },
+        {
+          "name":"Soumya Vhasure",
+          "type":"user",
+          "Score":0.377066092,
+          "size":30
+        },
+        {
+          "name":"Shalini Kumar",
+          "type":"user",
+          "Score":0.378902786,
+          "size":32
+        },
+        {
+          "name":"Parth Shah",
+          "type":"user",
+          "Score":0.37923938,
+          "size":32
+        },
+        {
+          "name":"Paige Kordas",
+          "type":"user",
+          "Score":0.379268806,
+          "size":32
+        },
+        {
+          "name":"Krishna Mittal",
+          "type":"user",
+          "Score":0.379303445,
+          "size":32
+        },
+        {
+          "name":"Bhargavi Dhanireddy",
+          "type":"user",
+          "Score":0.379398988,
+          "size":32
+        },
+        {
+          "name":"Mathews George",
+          "type":"user",
+          "Score":0.379970933,
+          "size":33
+        },
+        {
+          "name":"Shannon Bowman",
+          "type":"user",
+          "Score":0.380229055,
+          "size":33
+        },
+        {
+          "name":"Shwetha Bharadwaj",
+          "type":"user",
+          "Score":0.380848811,
+          "size":34
+        },
+        {
+          "name":"Mrudula Vysyaraju",
+          "type":"user",
+          "Score":0.381441022,
+          "size":34
+        },
+        {
+          "name":"Mazin Bokhari",
+          "type":"user",
+          "Score":0.382296369,
+          "size":35
+        },
+        {
+          "name":"Sheena Eettickal",
+          "type":"user",
+          "Score":0.382315689,
+          "size":35
+        },
+        {
+          "name":"Sharmeen Khan",
+          "type":"user",
+          "Score":0.382990399,
+          "size":36
+        },
+        {
+          "name":"Ishaan Kansal",
+          "type":"user",
+          "Score":0.383342377,
+          "size":36
+        },
+        {
+          "name":"Alice Jacob",
+          "type":"user",
+          "Score":0.383877364,
+          "size":37
+        },
+        {
+          "name":"Robert Andrews",
+          "type":"user",
+          "Score":0.384447316,
+          "size":37
+        },
+        {
+          "name":"Sundar Raj",
+          "type":"user",
+          "Score":0.384803532,
+          "size":38
+        },
+        {
+          "name":"Melissa Wu",
+          "type":"user",
+          "Score":0.385168268,
+          "size":38
+        },
+        {
+          "name":"Anshuman Dikhit",
+          "type":"user",
+          "Score":0.38524654,
+          "size":38
+        },
+        {
+          "name":"Stacy Lee",
+          "type":"user",
+          "Score":0.385688349,
+          "size":39
+        },
+        {
+          "name":"Niki Wells",
+          "type":"user",
+          "Score":0.386110908,
+          "size":39
+        },
+        {
+          "name":"Sam Corzine",
+          "type":"user",
+          "Score":0.386329615,
+          "size":39
+        },
+        {
+          "name":"Kevin Lin",
+          "type":"user",
+          "Score":0.38692628,
+          "size":40
+        },
+        {
+          "name":"Preska Sharma",
+          "type":"user",
+          "Score":0.387397861,
+          "size":40
+        },
+        {
+          "name":"Ajith George",
+          "type":"user",
+          "Score":0.387474553,
+          "size":40
+        },
+        {
+          "name":"Jaime Mathew",
+          "type":"user",
+          "Score":0.387795722,
+          "size":41
+        },
+        {
+          "name":"Katherine Kiang",
+          "type":"user",
+          "Score":0.388090836,
+          "size":41
+        },
+        {
+          "name":"Fahad Khan",
+          "type":"user",
+          "Score":0.389040522,
+          "size":42
+        },
+        {
+          "name":"Rohit Mukerji",
+          "type":"user",
+          "Score":0.390622502,
+          "size":44
+        },
+        {
+          "name":"Amritha Alice",
+          "type":"user",
+          "Score":0.390671061,
+          "size":44
+        },
+        {
+          "name":"Sneha Susan George",
+          "type":"user",
+          "Score":0.390943971,
+          "size":44
+        },
+        {
+          "name":"George Ruan",
+          "type":"user",
+          "Score":0.391688664,
+          "size":45
+        },
+        {
+          "name":"Mini Abraham",
+          "type":"user",
+          "Score":0.392521765,
+          "size":45
+        },
+        {
+          "name":"Marilyn Ohern",
+          "type":"user",
+          "Score":0.392534758,
+          "size":45
+        },
+        {
+          "name":"Alexandra Nicole",
+          "type":"user",
+          "Score":0.394261179,
+          "size":47
+        },
+        {
+          "name":"Noel Varghese",
+          "type":"user",
+          "Score":0.394599021,
+          "size":48
+        },
+        {
+          "name":"Prutha Thakkar",
+          "type":"user",
+          "Score":0.395168894,
+          "size":48
+        },
+        {
+          "name":"Hannah Downing",
+          "type":"user",
+          "Score":0.395177655,
+          "size":48
+        },
+        {
+          "name":"Steph Wang",
+          "type":"user",
+          "Score":0.395917698,
+          "size":49
+        },
+        {
+          "name":"Katyayni Gupta",
+          "type":"user",
+          "Score":0.395994119,
+          "size":49
+        },
+        {
+          "name":"Jacelyn Kuo",
+          "type":"user",
+          "Score":0.39650865,
+          "size":49
+        },
+        {
+          "name":"Nehal Desai",
+          "type":"user",
+          "Score":0.397733539,
+          "size":51
+        },
+        {
+          "name":"Matt Faust",
+          "type":"user",
+          "Score":0.398045983,
+          "size":51
+        },
+        {
+          "name":"Muthu Elza Kurien",
+          "type":"user",
+          "Score":0.398422788,
+          "size":51
+        }
+      ]}  
+    ]},
+  {"name": "groups", "children":[
+      {
+      "name":"Computer Science",
+      "type":"group",
+      "Score":0.353996214,
+      "size":7
+      },
+      {
+        "name":"Free & For Sale",
+        "type":"group",
+        "Score":0.366276572,
+        "size":19
+      },
+      {
+        "name":"Easy Classes at U of I !!!!",
+        "type":"group",
+        "Score":0.379389113,
+        "size":32
+      },
+      {
+        "name":"Women in Engineering at Illinois Freshman Camp 2014",
+        "type":"group",
+        "Score":0.39921221,
+        "size":52
+      },
+      {
+        "name":"ACM",
+        "type":"group",
+        "Score":0.406038652,
+        "size":59
+      },
+      {
+        "name":"Housing",
+        "type":"group",
+        "Score":0.434652988,
+        "size":88
+      },
+      {
+        "name":"Chictech Scavenger Hunt 2015",
+        "type":"group",
+        "Score":0.441812755,
+        "size":95
+      },
+      {
+        "name":"CS 210 FA15",
+        "type":"group",
+        "Score":0.467767776,
+        "size":121
+      },
+      {
+        "name":"Hackathon Hackers",
+        "type":"group",
+        "Score":0.46852433,
+        "size":121
+      },
+      {
+        "name":"Scandinavian Club",
+        "type":"group",
+        "Score":0.46852433,
+        "size":121
+      },
+      {
+        "name":"CS 225 SP15",
+        "type":"group",
+        "Score":0.476712629,
+        "size":130
+      },
+        {
+        "name":"Kill the Cup 2015 at UIUC",
+        "type":"group",
+        "Score":0.478835336,
+        "size":132
+        }
+    ]}, 
+  {"name": "pages", "children":[ 
+    {"name": "top_25%", 
+      "children":[
+      {
+        "name":"Tasty",
+        "type":"page",
+        "Score":0.350219438,
+        "size":3
+      },
+      {
+        "name":"Proper Tasty",
+        "type":"page",
+        "Score":0.369602811,
+        "size":23
+      },
+      {
+        "name":"BuzzFeed Video",
+        "type":"page",
+        "Score":0.380819229,
+        "size":34
+      },
+      {
+        "name":"Snowmen of New York",
+        "type":"page",
+        "Score":0.381034256,
+        "size":34
+      },
+      {
+        "name":"Science Lovers Only",
+        "type":"page",
+        "Score":0.38136242,
+        "size":34
+      },
+      {
+        "name":"BuzzFeed Food",
+        "type":"page",
+        "Score":0.40505073,
+        "size":58
+      },
+      {
+        "name":"HackIllinois",
+        "type":"page",
+        "Score":0.406432152,
+        "size":59
+      },
+      {
+        "name":"Demic",
+        "type":"page",
+        "Score":0.417177267,
+        "size":70
+      },
+      {
+        "name":"Mallu Memes",
+        "type":"page",
+        "Score":0.418317527,
+        "size":71
+      },
+      {
+        "name":"SoFlo",
+        "type":"page",
+        "Score":0.419795102,
+        "size":73
+      },
+      {
+        "name":"Noodles & Company",
+        "type":"page",
+        "Score":0.428259672,
+        "size":81
+      },
+      {
+        "name":"Braddy",
+        "type":"page",
+        "Score":0.434924115,
+        "size":88
+      },
+      {
+        "name":"SOML",
+        "type":"page",
+        "Score":0.435116729,
+        "size":88
+      },
+      {
+        "name":"AJ+",
+        "type":"page",
+        "Score":0.435116729,
+        "size":88
+      },
+      {
+        "name":"BuzzFeed Partner",
+        "type":"page",
+        "Score":0.435116729,
+        "size":88
+      },
+      {
+        "name":"Wendy's",
+        "type":"page",
+        "Score":0.435116729,
+        "size":88
+      },
+      {
+        "name":"Taco Bell",
+        "type":"page",
+        "Score":0.435116729,
+        "size":88
+      },
+      {
+        "name":"Minority Models",
+        "type":"page",
+        "Score":0.437124152,
+        "size":90
+      },
+      {
+        "name":"Viral Thread",
+        "type":"page",
+        "Score":0.437183822,
+        "size":90
+      },
+      {
+        "name":"NowThis",
+        "type":"page",
+        "Score":0.437183822,
+        "size":90
+      },
+      {
+        "name":"Coca-Cola",
+        "type":"page",
+        "Score":0.440717169,
+        "size":94
+      },
+      {
+        "name":"Penn Masala",
+        "type":"page",
+        "Score":0.442232505,
+        "size":95
+      },
+      {
+        "name":"Jeremy Gentry",
+        "type":"page",
+        "Score":0.443989889,
+        "size":97
+      },
+      {
+        "name":"Funniest And Craziest Videos",
+        "type":"page",
+        "Score":0.444890114,
+        "size":98
+      },
+      {
+        "name":"The Farce Report",
+        "type":"page",
+        "Score":0.447431155,
+        "size":100
+      }]}
+    
+    ]}
+
+
+]}
