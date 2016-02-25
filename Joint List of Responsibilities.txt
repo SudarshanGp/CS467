@@ -1,0 +1,8 @@
+Joint List of Responsibilities
+Sudarshan Govindaprasad: Worked mainly on implemeting the visualization in d3 and data modelling in Python.
+
+Susan Jacob: Worked on implementation and on experimenting with d3.js code and with python script
+
+Zubin Pahuja: Worked mainly on acquiring the data from facebook, by using server side techniques, and worked on the story write up for the visualization
+
+Ishaan Kansal: Worked on providing design input and helped out with idea generation
