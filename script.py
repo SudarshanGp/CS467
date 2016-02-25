@@ -5,7 +5,7 @@ import csv as csv
 import pandas as pd
 
 data = {}
-with open('formatted2.json') as data_file:    
+with open('data.json') as data_file:    
     data = json.load(data_file)
 
 f= csv.writer(open('test.csv','wb+'))
@@ -69,30 +69,5 @@ top_100 = ['100%'] * (number_of_entries- 9*(number_of_entries/10))
 new_list = top_10 + top_20 + top_30 + top_40 + top_50 + top_60 + top_70 + top_80 + top_90 + top_100
 new_df['rank'] = new_list
 new_df['index'] = 1
-new_df.to_csv('test1.csv')
+new_df.to_csv('facebook.csv')
 
-# newlist = sorted(new_df, key=lambda k: k['Score']) 
-# total_data = new_data_users + new_data_groups + new_data_pages + new_data_apps
-# newlist = sorted(total_data, key=lambda k: k['Score']) 
-
-
-# if(len(new_data_users)> 100):
-# 	new_data_users = new_data_users[0:100]
-# number_of_users = len(new_data_users)
-
-# top_10 = new_data_users[0:number_of_users/10]
-# top_30 = new_data_users[number_of_users/10:3*number_of_users/10]
-# top_50 = new_data_users[3*number_of_users/10 : 5*number_of_users/10]
-# top_100 = new_data_users[5*number_of_users/10 : number_of_users]
-# new_data_users = {'name' : 'Users', 'children' : [ {'name' : 'Top 10', 'children': top_10},  {'name' : 'Top 30', 'children':top_30}, 
-# 					{'name' : 'Top 50', 'children':top_50}, {'name' : 'Top 100', 'children' : top_100}]};
-# new_data_groups = {'name':'Groups', 'children':new_data_groups}
-# new_data_pages = {'name':'Pages', 'children':new_data_pages[0:100]}
-# new_data_apps = {'name':'Apps', 'children':new_data_apps}
-# facebook = {'name':'Facebook', 'children':[new_data_users, new_data_groups, new_data_pages, new_data_apps]}
-
-
-
-
-# with open("text.json", "w") as outfile:
-# 	json.dump(facebook, outfile, indent = 3)

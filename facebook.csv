@@ -1,0 +1,833 @@
+,name,Score,type,rank,index
+0,Saba Imran,0.348191097412,user,10%,1
+1,Tasty,0.348904839017,page,10%,1
+2,Helen Ye,0.349191252879,user,10%,1
+3,Manasa Sanka,0.349280962784,user,10%,1
+4,Sathvika Ashokkumar,0.349586351491,user,10%,1
+5,Ambika Dubey,0.349611085584,user,10%,1
+6,Amy Maniola,0.34988682716,user,10%,1
+7,Phillip Shih,0.350458225391,user,10%,1
+8,Ishaan Kansal,0.35116411234,user,10%,1
+9,Abigail Kumar,0.351205358453,user,10%,1
+10,Ying Chen,0.351279247155,user,10%,1
+11,Sudarshan Govindaprasad,0.351597167762,user,10%,1
+12,Rishi Thakker,0.351605124165,user,10%,1
+13,Anshuman Dikhit,0.351924011873,user,10%,1
+14,Dhruv Rastogi,0.352029226676,user,10%,1
+15,Andrew Labs,0.352322165931,user,10%,1
+16,Zubin Pahuja,0.352718962854,user,10%,1
+17,Joshua Mathew,0.353298619064,user,10%,1
+18,Aadhya Gupta,0.353644226813,user,10%,1
+19,Nathan Pitchaikani,0.35374743813,user,10%,1
+20,Computer Science,0.354398371707,group,10%,1
+21,Abhishek Johri,0.354670065693,user,10%,1
+22,Josh Vorick,0.354835760825,user,10%,1
+23,Rima Soni,0.355212816373,user,10%,1
+24,Athena Hung,0.355600133481,user,10%,1
+25,Harshit Agarwal,0.35682842504,user,10%,1
+26,Arnav Mishra,0.356890183934,user,10%,1
+27,Paige Kordas,0.357068094475,user,10%,1
+28,Robert Andrews,0.357091376925,user,10%,1
+29,Kevin Nadro,0.357115304538,user,10%,1
+30,Rohan Seth,0.357740556462,user,10%,1
+31,Aishwarya Nadella,0.357743580116,user,10%,1
+32,Faraaz Zaidi,0.357802356119,user,10%,1
+33,Mazin Bokhari,0.358396577004,user,10%,1
+34,Aveen Sharma,0.358594895521,user,10%,1
+35,Nick Vucovich,0.358878366055,user,10%,1
+36,HackIllinois 2016 Volunteers,0.359859773304,group,10%,1
+37,Roshan Rajan,0.359902546489,user,10%,1
+38,Soumik Biswas,0.360163971811,user,10%,1
+39,Sunaya Kumar,0.361223274962,user,10%,1
+40,Bitstrips,0.361855377417,app,10%,1
+41,Elise Chong,0.362320692617,user,10%,1
+42,Kush Maheshwari,0.362341581877,user,10%,1
+43,John Juneau II,0.362663235722,user,10%,1
+44,Anish Rangineni,0.36313310162,user,10%,1
+45,HackIllinois,0.363249059352,page,10%,1
+46,Katyayni Gupta,0.364093780453,user,10%,1
+47,Shivani Jagarlamudi,0.364169707903,user,10%,1
+48,Jigar Patel,0.364380214675,user,10%,1
+49,Proper Tasty,0.364526207579,page,10%,1
+50,Siddhanth Maheshwari,0.364568207571,user,10%,1
+51,Nikhil Mathews,0.364682273212,user,10%,1
+52,Mike Fowle,0.365404001519,user,10%,1
+53,Soumya Vhasure,0.36654003852,user,10%,1
+54,Radhir Kothuri,0.367603533836,user,10%,1
+55,Meg Ramsland,0.367825696803,user,10%,1
+56,Kate Vanek,0.368377981428,user,10%,1
+57,Meghavi Talati,0.368445199957,user,10%,1
+58,Andrew Ma,0.368520788618,user,10%,1
+59,Sohinee Oswal,0.368562585525,user,10%,1
+60,Dan Johnson,0.369360129106,user,10%,1
+61,George Benjamin,0.370379222882,user,10%,1
+62,Abhyuday Sooriyeh,0.370871998738,user,10%,1
+63,Harshit Kumar,0.372604588134,user,10%,1
+64,Nisha Karwal,0.376172396668,user,10%,1
+65,Lisa Geevarghese,0.377176575035,user,10%,1
+66,Sahana Srivatsan,0.377236603152,user,10%,1
+67,Aaminah Long,0.37808815884,user,10%,1
+68,Rohit Mukerji,0.378363243357,user,10%,1
+69,Ann Rajan,0.380450322344,user,10%,1
+70,Mathews George,0.380795812803,user,10%,1
+71,Ash Krishnan,0.382626475135,user,10%,1
+72,Vaibhav Pahwa,0.385143452937,user,10%,1
+73,Sanjana Shah,0.385304111209,user,10%,1
+74,Robbie Ng,0.385316729217,user,10%,1
+75,Sayali Patankar,0.386484667844,user,10%,1
+76,Vaishali Khandelwal,0.386643472065,user,10%,1
+77,Ajith George,0.387474553046,user,10%,1
+78,CS 374/498 BL1 SP16 (Algorithms and Models of Computation),0.388287235375,group,10%,1
+79,[cs467uiuc] Social Visualization,0.388287235375,group,10%,1
+80,Katherine Kiang,0.388368051681,user,10%,1
+81,Sheena Eettickal,0.388517271776,user,10%,1
+82,Juhi Patel,0.38888252488,user,10%,1
+83,Milan Dasgupta,0.389676304679,user,20%,1
+84,Curran Bhatia,0.389751765948,user,20%,1
+85,Steph Wang,0.390942840446,user,20%,1
+86,Events,0.391308747279,app,20%,1
+87,Pei Wei,0.392500069571,page,20%,1
+88,Parth Shah,0.393294255814,user,20%,1
+89,George Ruan,0.393347228978,user,20%,1
+90,Shannon Bowman,0.394252493,user,20%,1
+91,Kristi Lin,0.394578645449,user,20%,1
+92,Berwin Xie,0.394777352945,user,20%,1
+93,Stacy Lee,0.395527318241,user,20%,1
+94,BuzzFeed Video,0.395759192509,page,20%,1
+95,Melissa Wu,0.397373019046,user,20%,1
+96,Sri Vasamsetti,0.39794145609,user,20%,1
+97,Elias Waddington,0.398386786505,user,20%,1
+98,Kim Vatani,0.398524524209,user,20%,1
+99,Hannah Downing,0.399115829859,user,20%,1
+100,Soumyaa Mazumder,0.399157446916,user,20%,1
+101,Science Lovers Only,0.399832354988,page,20%,1
+102,Jacelyn Kuo,0.400886406011,user,20%,1
+103,Mallory Kini,0.400968392168,user,20%,1
+104,Rohan Mathur,0.402551721107,user,20%,1
+105,Katherine Xie,0.404060214008,user,20%,1
+106,Shalini Kumar,0.40406121462,user,20%,1
+107,Krishna Mittal,0.405138466027,user,20%,1
+108,Annie Parng,0.405245395192,user,20%,1
+109,George Mathews,0.40550078014,user,20%,1
+110,Qianwen Liu,0.407030332171,user,20%,1
+111,Bhargavi Dhanireddy,0.408277126431,user,20%,1
+112,Matt Faust,0.409177063392,user,20%,1
+113,Niki Wells,0.409813711896,user,20%,1
+114,Anupriya Tripathi,0.411090204349,user,20%,1
+115,Noel Varghese,0.411434509425,user,20%,1
+116,Jerry Parng,0.411629713044,user,20%,1
+117,Mini Abraham,0.411661319917,user,20%,1
+118,Alice Jacob,0.411835708922,user,20%,1
+119,Malhar Jere,0.412255916218,user,20%,1
+120,Jacquelyn Watson,0.413450641915,user,20%,1
+121,Mrudula Vysyaraju,0.413891038089,user,20%,1
+122,ACM,0.413921455592,group,20%,1
+123,Tanvi Agarwalla,0.413946637654,user,20%,1
+124,Priyanka Kanal,0.413957049728,user,20%,1
+125,Porter Smith,0.414081126798,user,20%,1
+126,Mike Peretz,0.415254185422,user,20%,1
+127,Kathleen Hu,0.415290391837,user,20%,1
+128,Shwetha Bharadwaj,0.41546844128,user,20%,1
+129,Sharmeen Khan,0.415618470383,user,20%,1
+130,Mia Voehringer,0.416294494803,user,20%,1
+131,Nihar Patel,0.416340217948,user,20%,1
+132,Heena Pithadia,0.416696122314,user,20%,1
+133,Sneha Susan George,0.417276013359,user,20%,1
+134,Shreya Santhanam,0.417507910911,user,20%,1
+135,Tina Mariam Thomas,0.418461813555,user,20%,1
+136,Swetlika Tripathy,0.418987086184,user,20%,1
+137,Sujay Khandekar,0.419118650307,user,20%,1
+138,Ada Hui,0.419176667255,user,20%,1
+139,BuzzFeed Food,0.419795102228,page,20%,1
+140,Anushka Desai,0.420989959225,user,20%,1
+141,Amritha Alice,0.421672585285,user,20%,1
+142,Snowmen of New York,0.421996909949,page,20%,1
+143,Advika Battini,0.422180294018,user,20%,1
+144,Carla Kus,0.422216847397,user,20%,1
+145,Patrick Paz,0.422980767363,user,20%,1
+146,Marlisa Wang,0.423345806449,user,20%,1
+147,Lizanne Elizabeth Varghese,0.423434740523,user,20%,1
+148,Morgan Hughes,0.423637890765,user,20%,1
+149,Natalie Barclay,0.4236707197,user,20%,1
+150,Sakshi Agarwal,0.423736410035,user,20%,1
+151,Steph Miller,0.423826872855,user,20%,1
+152,Fahad Khan,0.424079983862,user,20%,1
+153,Easy Classes at U of I !!!!,0.424994175773,group,20%,1
+154,Simi Mathew,0.425158263893,user,20%,1
+155,Prathyusha Namburi,0.425724602266,user,20%,1
+156,Sabu Varghese,0.426655734021,user,20%,1
+157,Prutha Thakkar,0.427087686914,user,20%,1
+158,Connie Fan,0.427467287809,user,20%,1
+159,Jennie Yang,0.427479384457,user,20%,1
+160,Amitesh Srivastava,0.427686854873,user,20%,1
+161,Jaina Parekh,0.427782062157,user,20%,1
+162,Ashwathy John,0.42797874253,user,20%,1
+163,Pandakasalayil Jacob George-Saji,0.428893404799,user,20%,1
+164,Alyssa Godek,0.429731291113,user,20%,1
+165,Find Friends,0.430669975617,app,20%,1
+166,Jennifer T. Thomas,0.43242808607,user,30%,1
+167,Eshwar Kishore,0.432509889218,user,30%,1
+168,Bhuvana Sundaresan,0.432607163875,user,30%,1
+169,Sarah Bounab,0.432691324509,user,30%,1
+170,Jose Gonzalez,0.433160681667,user,30%,1
+171,Hallie Cohen,0.433261955432,user,30%,1
+172,Anuhya Abbaraju,0.43331708153,user,30%,1
+173,Mishez Avari,0.434546202302,user,30%,1
+174,SOML,0.435116729067,page,30%,1
+175,Mathew Jacob,0.4356131405,user,30%,1
+176,Spurthi Kulkarni,0.43620034609,user,30%,1
+177,Sundar Raj,0.436308607767,user,30%,1
+178,Michelle Cheng,0.436352581928,user,30%,1
+179,Marcin Mocarski,0.43645595388,user,30%,1
+180,Abhishek Nigam,0.436533461544,user,30%,1
+181,Harrison Vince,0.436569031826,user,30%,1
+182,Priyanka Chaudhuri,0.436661527935,user,30%,1
+183,Kristina Miller,0.436682605324,user,30%,1
+184,Geethu Eype,0.437561121692,user,30%,1
+185,Subhash Mannava,0.437591887159,user,30%,1
+186,Nehal Desai,0.437918722727,user,30%,1
+187,Priya Susan Varghese,0.438771170797,user,30%,1
+188,Sheena Panthaplackel,0.440267529832,user,30%,1
+189,Alikhan Fidai,0.440319694659,user,30%,1
+190,Hyun Ju Grace Yoon,0.440339910169,user,30%,1
+191,Andrew Yang,0.440563255862,user,30%,1
+192,Indian Student Association (UIUC),0.440717169065,page,30%,1
+193,Coca-Cola,0.440717169065,page,30%,1
+194,Annie Thomas,0.441580668061,user,30%,1
+195,Jesse Ott,0.441590302098,user,30%,1
+196,Parul Agrawal,0.441636032997,user,30%,1
+197,Jennifer John Mathew,0.442426057363,user,30%,1
+198,Sarah Ewert,0.442575257873,user,30%,1
+199,Elena Knudsen,0.442575257873,user,30%,1
+200,Jaime Mathew,0.442644356785,user,30%,1
+201,Aileen Jong,0.443044064293,user,30%,1
+202,Supriya Bhatia,0.443093829615,user,30%,1
+203,Samantha Holzhauer,0.443359904688,user,30%,1
+204,Taruni Paleru,0.443788041974,user,30%,1
+205,Olivia Nortillo,0.443895247088,user,30%,1
+206,SoFlo,0.444890113786,page,30%,1
+207,John McHugh,0.444929768601,user,30%,1
+208,Amogha Ravi,0.444943370539,user,30%,1
+209,Preska Sharma,0.445039375934,user,30%,1
+210,Sai Susmitha Ravi,0.445053697246,user,30%,1
+211,Adithti Addepalli,0.445064828467,user,30%,1
+212,Emma LaCroix,0.445245752923,user,30%,1
+213,Shivani Patel,0.445294011592,user,30%,1
+214,Abraham George,0.445603142228,user,30%,1
+215,Alyssa Oplt,0.445709190211,user,30%,1
+216,Oskar Zhang,0.446091818295,user,30%,1
+217,Kevin Mula,0.446139062579,user,30%,1
+218,Kevin Palmer,0.446161524577,user,30%,1
+219,BuzzFeed,0.446562959559,page,30%,1
+220,Manthra Venkatakrishnan,0.446706566838,user,30%,1
+221,George Mathew,0.44704821218,user,30%,1
+222,Demic,0.447431154841,page,30%,1
+223,AJ+,0.447431154841,page,30%,1
+224,Viral Thread,0.447431154841,page,30%,1
+225,Wendy's,0.447431154841,page,30%,1
+226,Taco Bell,0.447431154841,page,30%,1
+227,BuzzFeed Partner,0.447431154841,page,30%,1
+228,Divya Singh,0.447781066417,user,30%,1
+229,Chiranth Kishore,0.447997375349,user,30%,1
+230,Kevin Lin,0.448145223359,user,30%,1
+231,Tabitha Juneau,0.448693500282,user,30%,1
+232,Avani Shah,0.448904589891,user,30%,1
+233,Cinda Heeren,0.449203693853,user,30%,1
+234,Jenna Lee,0.44938481051,user,30%,1
+235,Bissem Gill,0.44944287139,user,30%,1
+236,Sarah Przybyla,0.449449089941,user,30%,1
+237,Sara Lawler,0.449881330959,user,30%,1
+238,Hackathon Hackers,0.450050628596,group,30%,1
+239,Chris Sam,0.450090959932,user,30%,1
+240,Jasmin John,0.450615420933,user,30%,1
+241,Renee Tso,0.450623600245,user,30%,1
+242,Angela Wu,0.450834615509,user,30%,1
+243,Shrina Patel,0.450950922393,user,30%,1
+244,Lisa Signorella Maniola,0.450986751529,user,30%,1
+245,Katie Kelly,0.451028690651,user,30%,1
+246,Zoish Avari,0.451061110916,user,30%,1
+247,Iqra Mustafa,0.451104001057,user,30%,1
+248,Gina Randell,0.451210761759,user,30%,1
+249,Housing,0.451863056953,group,40%,1
+250,Jeremy Gentry,0.452037698637,page,40%,1
+251,Ajay Bhojwani,0.452048528679,user,40%,1
+252,Angela Catherine Dirkes,0.452271146237,user,40%,1
+253,Anushka Verma,0.452401961045,user,40%,1
+254,Karlee Burns,0.452468247357,user,40%,1
+255,NowThis,0.45282842882,page,40%,1
+256,Funniest And Craziest Videos,0.45282842882,page,40%,1
+257,Sanjana Bendi,0.454068294385,user,40%,1
+258,Tani Thomas,0.454082820648,user,40%,1
+259,Hannah Chait,0.454324724785,user,40%,1
+260,Amulia Nambiar,0.454395590201,user,40%,1
+261,Katerina Love Peterova,0.454496693815,user,40%,1
+262,Katherine Kostidis,0.454743399845,user,40%,1
+263,Tiffany Walsh,0.454743399845,user,40%,1
+264,Ajith Abraham,0.454873954809,user,40%,1
+265,Jackie Chen,0.455533574697,user,40%,1
+266,Carolyn Mei,0.455694546741,user,40%,1
+267,Blake Quinlan,0.45587694961,user,40%,1
+268,Aamir Attarwala,0.45587694961,user,40%,1
+269,Zoe Ivanov,0.456153298628,user,40%,1
+270,Renji George,0.45617218257,user,40%,1
+271,Maria Yeh,0.456375116969,user,40%,1
+272,Jessica Islas-Parker,0.456698939963,user,40%,1
+273,Nick Kartsunes,0.457217971697,user,40%,1
+274,Lizzie Jones,0.457267336076,user,40%,1
+275,Ashley Kim,0.457636274009,user,40%,1
+276,Sushama Mathews,0.457661118929,user,40%,1
+277,Madeline Lopez,0.457921554311,user,40%,1
+278,Peter Varughese,0.458364711697,user,40%,1
+279,Marilyn Ohern,0.458622326675,user,40%,1
+280,Niki Jackson,0.458952269333,user,40%,1
+281,Karly Brophy,0.459079143086,user,40%,1
+282,Purdue Hackers,0.459332332184,group,40%,1
+283,Starbucks Partners,0.459348446323,page,40%,1
+284,Hayley Mellin,0.459398440693,user,40%,1
+285,Mary Ann Mathew,0.459401182976,user,40%,1
+286,Prerana Rayna Jayanth,0.459605661917,user,40%,1
+287,Vignesh Sarathy,0.459656088043,user,40%,1
+288,Molly George,0.459672234276,user,40%,1
+289,Angelica Green,0.459767270348,user,40%,1
+290,Kinga Fluder,0.459767270348,user,40%,1
+291,Nihaal Sitaraman,0.459777170521,user,40%,1
+292,Sam Corzine,0.459831057264,user,40%,1
+293,Sunila Mathews,0.460026902669,user,40%,1
+294,Mayor Boss,0.460029008866,page,40%,1
+295,Alexandra Nicole,0.460109171728,user,40%,1
+296,Abre Saba Syed,0.460132597018,user,40%,1
+297,Nivin Mathew,0.460279487035,user,40%,1
+298,Amish Ralhan,0.460296976711,user,40%,1
+299,Shawn Zhang,0.460470227111,user,40%,1
+300,Partha Ryali,0.460586906656,user,40%,1
+301,Amber Sliwa,0.460693122155,user,40%,1
+302,Melissa Chyan,0.460709779994,user,40%,1
+303,Mrunmayi Deshmukh,0.460719371622,user,40%,1
+304,Akash Solomon,0.460737218083,user,40%,1
+305,Katelyn Rogers,0.460770962505,user,40%,1
+306,Cyril George,0.460842948649,user,40%,1
+307,Sara Garcia,0.46086066021,user,40%,1
+308,Terry Collins Croak,0.461005149324,user,40%,1
+309,Ashley Choi,0.461290117601,user,40%,1
+310,Dave Blanchette,0.461379542691,user,40%,1
+311,Allen Zhang,0.461379542691,user,40%,1
+312,Michelle Kim,0.461536299242,user,40%,1
+313,Molly Benjamin,0.461572580923,user,40%,1
+314,Gul Mariam,0.461572580923,user,40%,1
+315,Alissa Wisniewski,0.461673914806,user,40%,1
+316,Viviana Gonzalez,0.461673914806,user,40%,1
+317,Trish Weathers-Weidig,0.461781061003,user,40%,1
+318,Ankur Mehta,0.461958302576,user,40%,1
+319,Rojin Thomas,0.461992625016,user,40%,1
+320,Muhammad Usama Khalid,0.462192680012,user,40%,1
+321,Walbert Castillo,0.462192680012,user,40%,1
+322,Vava John,0.462262862602,user,40%,1
+323,Shree Das,0.46227555962,user,40%,1
+324,Sheena Chu,0.462312116299,user,40%,1
+325,Joel Varghese,0.462383305446,user,40%,1
+326,Erram Ali,0.462475560111,user,40%,1
+327,Arvind Arunasalam,0.462663146452,user,40%,1
+328,Alexandra Baumgart,0.46267879099,user,40%,1
+329,Kristin Tran,0.46267879099,user,40%,1
+330,Cameron White,0.462681074566,user,40%,1
+331,Tim Cruz,0.462800347847,user,40%,1
+332,Emily Tran,0.462874001638,user,50%,1
+333,Kayla Wilson,0.46293245435,user,50%,1
+334,Mark Zukowski,0.462988689305,user,50%,1
+335,Nikita Veera,0.463003727443,user,50%,1
+336,Alaina McCaffrey,0.463021902376,user,50%,1
+337,Sneha Ramprasad,0.463182018406,user,50%,1
+338,Benita Ody Ek,0.463329453693,user,50%,1
+339,Chino Mannikarottu,0.463357064205,user,50%,1
+340,Shivam Bharuka,0.463431705659,user,50%,1
+341,David Schmit,0.463458435504,user,50%,1
+342,Andrea Storey,0.463506876221,user,50%,1
+343,Aayush Sharma,0.463512448005,user,50%,1
+344,Mallu Memes,0.463532070385,page,50%,1
+345,Yoonho Nam,0.463569922486,user,50%,1
+346,Hannah Kuhl,0.463585130292,user,50%,1
+347,Sheri Thomas,0.463589767266,user,50%,1
+348,Sam Chung,0.463644814833,user,50%,1
+349,Sindhu Battula,0.463838098611,user,50%,1
+350,Emily Stearney,0.464008330165,user,50%,1
+351,Sanjana Thomas,0.464017478578,user,50%,1
+352,Mosab Elagha,0.464059554659,user,50%,1
+353,Caili Chen,0.4643956201,user,50%,1
+354,Max Jahns,0.464586725451,user,50%,1
+355,Saimithra Reddy Mannuru,0.464947088745,user,50%,1
+356,Holly Gui,0.465004094505,user,50%,1
+357,Suriya Kodeswaran,0.465209768818,user,50%,1
+358,Vamshek Srinivasan,0.46520985523,user,50%,1
+359,Matthew Erickson,0.46520985523,user,50%,1
+360,Austin Jung,0.465218118519,user,50%,1
+361,Divya Karumanchi,0.465250353653,user,50%,1
+362,Allie Oakes,0.465456616728,user,50%,1
+363,Naren Dasan,0.465513347317,user,50%,1
+364,Akhil Abraham,0.465529220042,user,50%,1
+365,Tony Romano,0.465529220042,user,50%,1
+366,Matt Zimolzak,0.465529220042,user,50%,1
+367,Manoj George Mathew,0.465529220042,user,50%,1
+368,Daejung Kim,0.465529220042,user,50%,1
+369,Tony Lee,0.466039287577,user,50%,1
+370,KitKat,0.46609155688,page,50%,1
+371,Melissa Nakazawa,0.466349834832,user,50%,1
+372,Aamir Khan,0.46657005058,page,50%,1
+373,Autumn Cho,0.466684593042,user,50%,1
+374,Sophia Chen,0.466684593042,user,50%,1
+375,Anushka Vazirani,0.466684593042,user,50%,1
+376,Amelia West,0.466684593042,user,50%,1
+377,Joanne Kwak,0.466684593042,user,50%,1
+378,Nithin Rajkumar,0.46690124006,user,50%,1
+379,Penn Masala,0.466952753866,page,50%,1
+380,Simran Patil,0.467095256531,user,50%,1
+381,Kartik Kulkarni,0.467128484166,user,50%,1
+382,Joanne Lee,0.467197525368,user,50%,1
+383,Yohan John,0.467200160434,user,50%,1
+384,Jimmy Tang,0.467228539747,user,50%,1
+385,Neel Saunshi,0.467228539747,user,50%,1
+386,Harry Winter,0.467228539747,user,50%,1
+387,Megha Mathur,0.467602247905,user,50%,1
+388,Shreya Nagesh,0.467924589382,user,50%,1
+389,Jiyan Hatami,0.467982756561,user,50%,1
+390,Anna Maria LaValle,0.46808046148,user,50%,1
+391,Sophie Slezak,0.46809470445,user,50%,1
+392,Brian Lin,0.468171554715,user,50%,1
+393,Susan Koruthu,0.468380867434,user,50%,1
+394,Reeny John,0.468380867434,user,50%,1
+395,Karla Del Cid,0.468380867434,user,50%,1
+396,Sarthak Grover,0.468387645078,user,50%,1
+397,Jeenal Mehta,0.468672825222,user,50%,1
+398,Jessi Elder,0.468803118948,user,50%,1
+399,Argey George,0.46904335117,user,50%,1
+400,Samuel Chacko,0.46904335117,user,50%,1
+401,Sapna Reddy,0.469138967278,user,50%,1
+402,Emily George,0.469138967278,user,50%,1
+403,Joseph Mitchell,0.469298740662,user,50%,1
+404,Mohan Abraham,0.469387022756,user,50%,1
+405,Eype John,0.469410555145,user,50%,1
+406,Nehal Patel,0.46942098477,user,50%,1
+407,Larissa Magera,0.469456860416,user,50%,1
+408,Shreya Rao,0.469456860416,user,50%,1
+409,Jonathan Pierce,0.469525901756,user,50%,1
+410,Shoji Koshy,0.469626750044,user,50%,1
+411,Brinda Dollu,0.469638994643,user,50%,1
+412,Susmit Sukthankar,0.469652655905,user,50%,1
+413,Shazia Rangwala,0.469660315517,user,50%,1
+414,Christine Thomas,0.469660315517,user,50%,1
+415,Palak Kumar,0.469660315517,user,60%,1
+416,Elviz George,0.469795128504,user,60%,1
+417,Ben Lewis,0.469833043351,user,60%,1
+418,Natasha Pereira,0.469858165601,user,60%,1
+419,Mukesh Gande,0.469902147442,user,60%,1
+420,Women in Engineering at Illinois Freshman Camp 2014,0.469911121024,group,60%,1
+421,James Feng,0.469937178482,user,60%,1
+422,Free & For Sale,0.469952223922,group,60%,1
+423,Karen Han,0.470043040165,user,60%,1
+424,Shiv Patel,0.470135833213,user,60%,1
+425,Makonenn Sam,0.470150316794,user,60%,1
+426,Tyler Johnson,0.47031188278,user,60%,1
+427,Josh Radochonski,0.47031188278,user,60%,1
+428,Minority Models,0.470436777738,page,60%,1
+429,Andrew Kuznetsov,0.470509479385,user,60%,1
+430,Chris Batrich,0.470509479385,user,60%,1
+431,Mary Kate Baughman,0.470556260705,user,60%,1
+432,Khatija Ali,0.470643822653,user,60%,1
+433,Savreen Kaur,0.4707050507,user,60%,1
+434,UIUC Zindaa,0.470875053525,page,60%,1
+435,I be like,0.470875053525,page,60%,1
+436,Illini Crushes & Confessions,0.470875053525,page,60%,1
+437,UPS,0.470875053525,page,60%,1
+438,Challenge Your Inner Critic,0.470875053525,page,60%,1
+439,ATTN:,0.470875053525,page,60%,1
+440,Matteo Poker,0.470875053525,page,60%,1
+441,Sprint,0.470875053525,page,60%,1
+442,Noodles & Company,0.470875053525,page,60%,1
+443,UNILAD,0.470875053525,page,60%,1
+444,TeenTimes,0.470875053525,page,60%,1
+445,The Farce Report,0.470875053525,page,60%,1
+446,DesIllini,0.470875053525,page,60%,1
+447,Shaadow Sefiroth,0.470875053525,page,60%,1
+448,Angela Zhu,0.471082741661,user,60%,1
+449,Eric Moca,0.471294335431,user,60%,1
+450,Zoy Wang,0.47144617191,user,60%,1
+451,Chictech Scavenger Hunt 2015,0.471778027417,group,60%,1
+452,Vanila Bean,0.471943412483,user,60%,1
+453,Ashley Eettickal,0.471943412483,user,60%,1
+454,Kelly Hentges,0.471943412483,user,60%,1
+455,Deepa Mathew,0.471943412483,user,60%,1
+456,Ivy Abraham,0.471943412483,user,60%,1
+457,Jessica Holzhauer,0.471943412483,user,60%,1
+458,Neethu Susan Mathew,0.471943412483,user,60%,1
+459,Shailaja Parekh,0.471943412483,user,60%,1
+460,Laly Mathew,0.471943412483,user,60%,1
+461,Surai DeJesus,0.471943412483,user,60%,1
+462,Richa Vijayvergiya,0.472010412899,user,60%,1
+463,Emily Worthem,0.472102890409,user,60%,1
+464,Ewa Konczewska,0.472102890409,user,60%,1
+465,Lauren Burke,0.472102890409,user,60%,1
+466,Soni Peterson,0.472136579334,user,60%,1
+467,Enobong Asanga,0.472235548476,user,60%,1
+468,Laila Ali,0.472235548476,user,60%,1
+469,Katie Prochilo,0.472235548476,user,60%,1
+470,Anub Abraham,0.472363838876,user,60%,1
+471,Jordan Campbell,0.472363838876,user,60%,1
+472,Ben Krause,0.472363838876,user,60%,1
+473,Hermit Mildred Crab,0.472363838876,user,60%,1
+474,Vivian Xu,0.47240753322,user,60%,1
+475,Ashwin Manalil Koshy,0.472491405026,user,60%,1
+476,Frank Kranz,0.472519384724,user,60%,1
+477,Haaris Khan,0.472648763644,user,60%,1
+478,Timothy Chin,0.472648763644,user,60%,1
+479,Marley Waskin,0.473045325531,user,60%,1
+480,Manisha Virupannavar,0.473045325531,user,60%,1
+481,Jenna Pavlik,0.473045325531,user,60%,1
+482,Adrian Peisker,0.473045325531,user,60%,1
+483,Jennifer Sieben,0.473045325531,user,60%,1
+484,Rebecca Wight,0.473045325531,user,60%,1
+485,Shelbi Hernandez,0.473045325531,user,60%,1
+486,Yvette Bibi Alvarez,0.473045325531,user,60%,1
+487,Caiti Vinopal,0.473045325531,user,60%,1
+488,Nancy George,0.473045325531,user,60%,1
+489,Lisa Van,0.473045325531,user,60%,1
+490,Inaara Tajuddin,0.473045325531,user,60%,1
+491,Vibha Pandurangi,0.473045325531,user,60%,1
+492,Jill Holliday,0.473045325531,user,60%,1
+493,Taniya Easow Varughese,0.4731683436,user,60%,1
+494,Anna Yershova,0.4731683436,user,60%,1
+495,Komal Patel,0.4731683436,user,60%,1
+496,Taylor Anne,0.473194435482,user,60%,1
+497,Rachel Misic,0.473194435482,user,60%,1
+498,Kelly Dudar,0.473194435482,user,70%,1
+499,Alexa Egan,0.473194435482,user,70%,1
+500,Michelle Baum,0.473194435482,user,70%,1
+501,Vaishu Alladi,0.473194435482,user,70%,1
+502,Claire Anne,0.473194435482,user,70%,1
+503,Caroline Prescott,0.473194435482,user,70%,1
+504,Shelly Dubinski,0.473194435482,user,70%,1
+505,Joanna Josten,0.473194435482,user,70%,1
+506,Megan Kelley,0.473194435482,user,70%,1
+507,Helen Chvoy,0.473194435482,user,70%,1
+508,Jillian Marsden,0.473194435482,user,70%,1
+509,Christy Dettmann,0.473194435482,user,70%,1
+510,Amy Andersen,0.473194435482,user,70%,1
+511,Ali Maniscalco,0.473194435482,user,70%,1
+512,Shruti Shah,0.4732896735,user,70%,1
+513,Hulda Bungle,0.473315561652,user,70%,1
+514,Danielle Bumba,0.473315561652,user,70%,1
+515,Chris Mursuli,0.473438359901,user,70%,1
+516,Ryan John,0.473438359901,user,70%,1
+517,Karan Usgaonkar,0.473438359901,user,70%,1
+518,Will Athanas,0.473438359901,user,70%,1
+519,Kaushal Vyas,0.473438359901,user,70%,1
+520,Andrew Silge,0.473438359901,user,70%,1
+521,Eammon Littler,0.473438359901,user,70%,1
+522,Daniel Fishbaum,0.473438359901,user,70%,1
+523,Nikko Etzo Papp,0.473557576981,user,70%,1
+524,Eric Henderlight,0.473583723088,user,70%,1
+525,Isaiah Sanderman,0.473583723088,user,70%,1
+526,Avery Olson,0.473583723088,user,70%,1
+527,Dan Leonard,0.473583723088,user,70%,1
+528,Tako Kinoshita,0.473583723088,user,70%,1
+529,Akhil Thuthika,0.473583723088,user,70%,1
+530,Josh Pankratz,0.473583723088,user,70%,1
+531,Kevin Lee,0.473583723088,user,70%,1
+532,James Tao,0.473583723088,user,70%,1
+533,Tyler Miles,0.473583723088,user,70%,1
+534,Victor Huang,0.473583723088,user,70%,1
+535,Eric Leonard,0.473583723088,user,70%,1
+536,Yan Sun,0.473585094986,user,70%,1
+537,Waleed Abdelhadi,0.473701798625,user,70%,1
+538,Rachel Thomas,0.473963011765,user,70%,1
+539,Chris Fischer,0.473964520985,user,70%,1
+540,Nimesh Avashia,0.473964520985,user,70%,1
+541,Gloria Ho,0.474129972202,user,70%,1
+542,Dondi Hibma,0.474129972202,user,70%,1
+543,Sarah Kliora,0.474129972202,user,70%,1
+544,Mary Catherine Smith,0.474129972202,user,70%,1
+545,Abby Iuorio,0.474129972202,user,70%,1
+546,Alexis Heighton,0.474129972202,user,70%,1
+547,Teddi Barclay,0.474129972202,user,70%,1
+548,Vivian Barclay,0.474129972202,user,70%,1
+549,Angie Peng,0.474129972202,user,70%,1
+550,Anita Klementiev,0.474129972202,user,70%,1
+551,Jenna Chin,0.474129972202,user,70%,1
+552,Andrew Thomas,0.474229114811,user,70%,1
+553,Sarah Behery,0.47424373232,user,70%,1
+554,Rebecca Tu,0.47424373232,user,70%,1
+555,Erica Simios,0.47426868019,user,70%,1
+556,Rachel Lee,0.47426868019,user,70%,1
+557,Brie Hirsch,0.47426868019,user,70%,1
+558,Lexy Porter,0.47426868019,user,70%,1
+559,Katie Posdal,0.47426868019,user,70%,1
+560,Katherine Bulman,0.47426868019,user,70%,1
+561,Veronica Lenz,0.47426868019,user,70%,1
+562,Maria Sorrentino,0.47426868019,user,70%,1
+563,Olivia Youman,0.47426868019,user,70%,1
+564,Brittney Wojcik,0.47426868019,user,70%,1
+565,Morgan Johnson,0.47426868019,user,70%,1
+566,Mary-Kate Schiffer,0.47426868019,user,70%,1
+567,Nancy Chen,0.47426868019,user,70%,1
+568,Nabiha Beebs Mumtaz,0.47426868019,user,70%,1
+569,Karolina Chojnowska,0.47426868019,user,70%,1
+570,Liz Azzarello,0.47426868019,user,70%,1
+571,Karolina Cholewa,0.47426868019,user,70%,1
+572,Andrea Nicholson,0.47426868019,user,70%,1
+573,William David Curtis,0.474334600092,user,70%,1
+574,Zak Wadas,0.474366862286,user,70%,1
+575,Blythe Baird,0.474381338039,user,70%,1
+576,Arianna Messner,0.474381338039,user,70%,1
+577,Lauren Elizabeth,0.474381338039,user,70%,1
+578,Ashley Palazzo,0.474381338039,user,70%,1
+579,Erin Peiss,0.474381338039,user,70%,1
+580,Kiana Kimbrough,0.474464560174,user,70%,1
+581,Gluten-Free-Vegan-Girl,0.47448489299,page,80%,1
+582,David Wong,0.474495534129,user,80%,1
+583,Joe Liberman,0.474495534129,user,80%,1
+584,Jerry Pan,0.474495534129,user,80%,1
+585,Vijay Illu Magati,0.474495534129,user,80%,1
+586,Nate J. Mathai,0.474495534129,user,80%,1
+587,Zach Reuer,0.474495534129,user,80%,1
+588,Cole Mccreary,0.474495534129,user,80%,1
+589,Josh Jackson,0.474495534129,user,80%,1
+590,Aidan Stadler,0.474495534129,user,80%,1
+591,Lizzy Worstell,0.474518895042,user,80%,1
+592,Joyce Park,0.474518895042,user,80%,1
+593,Abe Reyes,0.474630692421,user,80%,1
+594,Eli Dolson,0.474630692421,user,80%,1
+595,Nick Fishburn,0.474630692421,user,80%,1
+596,Max Provan,0.474630692421,user,80%,1
+597,Scott Theer,0.474630692421,user,80%,1
+598,Matt Teeter,0.474630692421,user,80%,1
+599,Brady Warren,0.474630692421,user,80%,1
+600,Patrick Haugh,0.474630692421,user,80%,1
+601,Drew Larson,0.474630692421,user,80%,1
+602,Matt Schmit,0.474630692421,user,80%,1
+603,Keith Berger,0.474630692421,user,80%,1
+604,Arthur Choi,0.474630692421,user,80%,1
+605,Matthew Skoog,0.474630692421,user,80%,1
+606,Michael Chemello,0.474630692421,user,80%,1
+607,David Ian Onford,0.474630692421,user,80%,1
+608,Keigo O'Haru,0.474630692421,user,80%,1
+609,Rishabh Saxena,0.474630692421,user,80%,1
+610,Anthony Smith,0.47474046115,user,80%,1
+611,John William Farina,0.47474046115,user,80%,1
+612,Beena Khan,0.4748395332,user,80%,1
+613,Marisa Gnadt,0.47488433016,user,80%,1
+614,Ananya Cleetus,0.474897137846,user,80%,1
+615,Latha Thomas,0.474942147547,user,80%,1
+616,Madison Le,0.474942147547,user,80%,1
+617,Flora Yan,0.474942147547,user,80%,1
+618,Laly Bobby,0.474942147547,user,80%,1
+619,Jacquelin Michelle Marzan,0.474947627122,user,80%,1
+620,Afshan Bokhari,0.474947627122,user,80%,1
+621,Tim Buban,0.474978582625,user,80%,1
+622,Kaitlyn Yelin Ha,0.475015688876,user,80%,1
+623,Santha Kappen,0.475040416771,user,80%,1
+624,Feba Jones,0.475049416377,user,80%,1
+625,Cassie Adrian,0.475072939096,user,80%,1
+626,Jessica Garcia,0.475072939096,user,80%,1
+627,Rob Andrew,0.475095060784,user,80%,1
+628,Claudia Kesala,0.475112213407,user,80%,1
+629,Sathish Menon,0.475186849734,user,80%,1
+630,Anthony MrKodak Rodriguez JL,0.475186849734,user,80%,1
+631,Jeffrey Varughese,0.475186849734,user,80%,1
+632,Aniqa Tahsin,0.475210717304,user,80%,1
+633,Andrea Cabrera,0.475210717304,user,80%,1
+634,Brianna Ifft,0.475210717304,user,80%,1
+635,Netflix,0.475219520352,page,80%,1
+636,Joel Jexie,0.475230487552,user,80%,1
+637,Jacob Mathew,0.475286807615,user,80%,1
+638,Jason Jacob,0.475286807615,user,80%,1
+639,Shawn James,0.475292145209,user,80%,1
+640,Mark Zuckerberg,0.475292145209,user,80%,1
+641,Dinesh Ramchandani,0.475292145209,user,80%,1
+642,Carson Brumley,0.475310492061,user,80%,1
+643,Akira Izuno,0.475310492061,user,80%,1
+644,Karunya Tota,0.475310492061,user,80%,1
+645,Stephanie Pontikis,0.475310492061,user,80%,1
+646,Hongshuo Liu,0.475310492061,user,80%,1
+647,Janeen George,0.475310492061,user,80%,1
+648,Payal Desai,0.475310492061,user,80%,1
+649,Dana Scholl,0.475310492061,user,80%,1
+650,Haley Needham,0.475310492061,user,80%,1
+651,Shema Thomas,0.475310492061,user,80%,1
+652,Sharon Mathew,0.475315819867,user,80%,1
+653,Anders Dinterman,0.475358442337,user,80%,1
+654,Micah Narsolis,0.475375844592,user,80%,1
+655,George Zacharia,0.475382528624,user,80%,1
+656,Riley Miller,0.475404861156,user,80%,1
+657,Jacob Gongaware,0.475404861156,user,80%,1
+658,Jake Ellin,0.475414206702,user,80%,1
+659,Kat Santoro,0.475414787349,user,80%,1
+660,Abby Pasion,0.475414787349,user,80%,1
+661,Jeesoo Won,0.475437657303,user,80%,1
+662,Mackenzie Schranz,0.475437657303,user,80%,1
+663,Kyra Ammelounx,0.475437657303,user,80%,1
+664,Irina Andrianova,0.475437657303,user,90%,1
+665,Ema Sasic,0.475437657303,user,90%,1
+666,Susan Szuch,0.475437657303,user,90%,1
+667,Nina Freund,0.475437657303,user,90%,1
+668,Gaby Nielsen,0.475437657303,user,90%,1
+669,Amy Byrne,0.475437657303,user,90%,1
+670,Camilla Chee,0.475437657303,user,90%,1
+671,Haley Blomstrand,0.475437657303,user,90%,1
+672,Maggie Bednarek,0.475437657303,user,90%,1
+673,Subham Saha,0.475548403296,user,90%,1
+674,Shubham Pahadia,0.475548403296,user,90%,1
+675,Shubham Bhutra,0.475548403296,user,90%,1
+676,Ashley Vallapurackal,0.475548671606,user,90%,1
+677,Merin Soji Alex,0.475548671606,user,90%,1
+678,Lexy Rudofski,0.475548671606,user,90%,1
+679,Emily Randall,0.475548671606,user,90%,1
+680,Erika Reese,0.475548671606,user,90%,1
+681,Tech Insider,0.475641200278,page,90%,1
+682,Braddy,0.475641200278,page,90%,1
+683,Tip Hero,0.475641200278,page,90%,1
+684,Dunkin' Donuts,0.475641200278,page,90%,1
+685,Hexjam,0.475641200278,page,90%,1
+686,"Smallcakes: A Cupcakery Naperville, IL",0.475641200278,page,90%,1
+687,Aluminati,0.475641200278,page,90%,1
+688,McDonald's,0.475641200278,page,90%,1
+689,BuzzFeed Oz,0.475641200278,page,90%,1
+690,Rishi Erik Debnath,0.475645579274,user,90%,1
+691,Arighno Das,0.475645579274,user,90%,1
+692,Steven Chin,0.475645579274,user,90%,1
+693,Brandon Chong,0.475645579274,user,90%,1
+694,Vidas Kulbis,0.475645579274,user,90%,1
+695,Coby Benveniste,0.475645579274,user,90%,1
+696,Zaed Hussain,0.475645579274,user,90%,1
+697,Henry Smith,0.475645579274,user,90%,1
+698,Kyle Erickson,0.475645579274,user,90%,1
+699,Rohit Saharoy,0.475645579274,user,90%,1
+700,Samuel Choi,0.475645579274,user,90%,1
+701,Timothy Nguyen,0.475650768191,user,90%,1
+702,Tanishq Dubey,0.475650768191,user,90%,1
+703,Serena Ahuja,0.47565103432,user,90%,1
+704,Iveri Levine,0.47565103432,user,90%,1
+705,Sam Fox,0.475769426127,user,90%,1
+706,Nick Macius,0.475769426127,user,90%,1
+707,Quinn Sammons,0.475769426127,user,90%,1
+708,Joshua Lee,0.475769426127,user,90%,1
+709,Rohit Mittapalli,0.475877537835,user,90%,1
+710,Altgeld Chime Tower at the University of Illinois,0.475944688117,page,90%,1
+711,Sammy Levey,0.476005082782,user,90%,1
+712,Anna Kuzma,0.476005082782,user,90%,1
+713,Jackie Hirn,0.476154666592,user,90%,1
+714,Mohammed Shahid Shahid,0.476199076482,user,90%,1
+715,Nico Torregrosa,0.476203681405,user,90%,1
+716,Eric Mo,0.476203681405,user,90%,1
+717,Nishi Desai,0.476234412597,user,90%,1
+718,Shannon Strum,0.476234412597,user,90%,1
+719,Emily Gierloff,0.476234412597,user,90%,1
+720,Michelle Saunders,0.476234412597,user,90%,1
+721,Lexi Rogien,0.476234412597,user,90%,1
+722,Priya Mehta,0.476234412597,user,90%,1
+723,Priyanka Tandra,0.476234412597,user,90%,1
+724,Moez Dawood,0.476318737238,user,90%,1
+725,Ryan Comstock,0.476321960119,user,90%,1
+726,Ziwei Ba,0.476331168203,user,90%,1
+727,Brianna Fleming,0.476352383213,user,90%,1
+728,Natalie Costigan,0.476352383213,user,90%,1
+729,Sam Campbell,0.476352383213,user,90%,1
+730,Gayathri Dollu,0.476352383213,user,90%,1
+731,Kendall Bartecki,0.476352383213,user,90%,1
+732,Heather McDonough,0.476352383213,user,90%,1
+733,Dorothy Feng,0.476352383213,user,90%,1
+734,Lauren Elisabeth,0.476352383213,user,90%,1
+735,Morgan Rukstales,0.476352383213,user,90%,1
+736,Kiara Koeppen,0.476363845721,user,90%,1
+737,Suneha Pocha,0.476363845721,user,90%,1
+738,Caitlin Murray,0.476448167767,user,90%,1
+739,Sushmita Shankar,0.476459535823,user,90%,1
+740,Zach Hess,0.476545232267,user,90%,1
+741,Sachin Ravichandran,0.476545232267,user,90%,1
+742,Ben Logsdon,0.476545232267,user,90%,1
+743,Rohan Kasiviswanathan,0.476545232267,user,90%,1
+744,Navneeth Jayendran,0.476545232267,user,90%,1
+745,Gaurav Pasari,0.476545232267,user,90%,1
+746,Rahul Raju,0.476545232267,user,90%,1
+747,Colin Hensen,0.476545232267,user,100%,1
+748,Chris Umeki,0.476545232267,user,100%,1
+749,Murali Palathinkara,0.476545232267,user,100%,1
+750,Ayush Agrawal,0.476545232267,user,100%,1
+751,Jeremy Lan,0.47663942535,user,100%,1
+752,Eric Pohl,0.476660077955,user,100%,1
+753,Danny Wilson,0.476660077955,user,100%,1
+754,Will LeFevre,0.476660077955,user,100%,1
+755,Ryan Porto,0.476660077955,user,100%,1
+756,Brandon Galbreath,0.476660077955,user,100%,1
+757,Michael Korn,0.476660077955,user,100%,1
+758,Ben Carlson,0.476660077955,user,100%,1
+759,Sam Ayers,0.476660077955,user,100%,1
+760,Matthew Shepherd,0.47674390371,user,100%,1
+761,Becca Habel,0.476814593737,user,100%,1
+762,Sarah Dorothy Koltonuk,0.476815072449,user,100%,1
+763,Joanna Kus,0.476875491015,user,100%,1
+764,Abraham Eipe Sunny,0.476895655511,user,100%,1
+765,Rahul Sirasao,0.476927196277,user,100%,1
+766,Tania Mathew,0.477046371346,user,100%,1
+767,Marilyn D. Sudkamp,0.477046371346,user,100%,1
+768,Reeba Thomas,0.477046371346,user,100%,1
+769,Payal Mallik,0.477068384411,user,100%,1
+770,Kosuke Hozoji,0.477136898329,user,100%,1
+771,Kyle Robinson,0.477219114421,user,100%,1
+772,Brandon Thio,0.477219575606,user,100%,1
+773,Vineeth Mathew,0.477335562372,user,100%,1
+774,Aaron Chiu,0.477335562372,user,100%,1
+775,Catherine Schmid,0.477355425251,user,100%,1
+776,Rachel Soukup,0.477355425251,user,100%,1
+777,Ajish George,0.477415830703,user,100%,1
+778,Adrienne Nicole,0.477442877106,user,100%,1
+779,Lauren Seitz,0.477479544817,user,100%,1
+780,Mallu Vines,0.477494897899,page,100%,1
+781,Kartik Papatla,0.477721403618,user,100%,1
+782,Michelle Moy,0.477825685989,user,100%,1
+783,Koshy Mathew,0.477881930003,user,100%,1
+784,Justin James Siniawski,0.477993780913,user,100%,1
+785,Rachael Sirek,0.478129283408,user,100%,1
+786,Natalia Pereira,0.478129283408,user,100%,1
+787,Mercy Antony,0.478246680997,user,100%,1
+788,Yuki Miyabayashi,0.478482084938,user,100%,1
+789,Nutella,0.478591216376,page,100%,1
+790,Alpha Iota Omicron - Saint Louis University,0.478634761196,page,100%,1
+791,Visa,0.478634761196,page,100%,1
+792,Will Smith,0.478634761196,page,100%,1
+793,Jaan & Arya,0.478634761196,page,100%,1
+794,Pillsbury,0.478634761196,page,100%,1
+795,Best Vines,0.478634761196,page,100%,1
+796,Refinery29,0.478634761196,page,100%,1
+797,Jus Reign,0.478634761196,page,100%,1
+798,Baskin-Robbins,0.478634761196,page,100%,1
+799,Adam Ruins Everything,0.478634761196,page,100%,1
+800,Google Express,0.478634761196,page,100%,1
+801,Kyle and Jackie O,0.478634761196,page,100%,1
+802,OneNote,0.478634761196,page,100%,1
+803,ACDIS Security Studies Group,0.478634761196,page,100%,1
+804,Humans of IMSA,0.478634761196,page,100%,1
+805,Cool stuff on eBay,0.478634761196,page,100%,1
+806,TYME,0.478634761196,page,100%,1
+807,Office Depot,0.478634761196,page,100%,1
+808,John Kwak,0.478656838097,user,100%,1
+809,June Gudoor,0.478732341615,user,100%,1
+810,Fremd Compliments,0.478750031486,user,100%,1
+811,Erik McPherrin,0.478770197086,user,100%,1
+812,Kill the Cup 2015 at UIUC,0.478835335776,group,100%,1
+813,CS 210 FA15,0.478835335776,group,100%,1
+814,Ron Wright,0.478858587374,user,100%,1
+815,Martin Zacharia,0.478860130115,user,100%,1
+816,Nikitha Gajula,0.478875525078,user,100%,1
+817,Ty Ingram,0.479009600538,user,100%,1
+818,Meggy Ann Schalk,0.479171261897,user,100%,1
+819,Ashwath Raghuram,0.479236505736,user,100%,1
+820,Tiffany Walsh,0.48703849209,user,100%,1
+821,Betsy Blake Dusenske,0.48703849209,user,100%,1
+822,Abigail Chin,0.48703849209,user,100%,1
+823,Rishabh Saxena,0.48703849209,user,100%,1
+824,Dhairya Dholiya,0.48703849209,user,100%,1
+825,Abby Klarng,0.48703849209,user,100%,1
+826,Lauren Centa,0.48703849209,user,100%,1
+827,David Hui,0.48703849209,user,100%,1
+828,Justine Turner,0.48703849209,user,100%,1
+829,Zubin Thomas,0.48703849209,user,100%,1
+830,Kevin Rajan,0.48703849209,user,100%,1
+831,Kevin Hong,0.48703849209,user,100%,1

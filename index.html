@@ -4,11 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Facebook, Who Am I?</title>
-<!--   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"> -->
-<!-- offline sources  start -->
  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 <!-- offline sources  end -->
- <script type="text/javascript" src="https://cdn.firebase.com/v0/firebase.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
@@ -39,18 +36,13 @@ html,body {
   <script type="text/javascript">
     // This is the simple vertical grouped stacked 100% bar example
     var svg = dimple.newSvg("#chartContainer", 800, 700);
-    d3.csv("test1.csv", function (data) {
+    d3.csv("facebook.csv", function (data) {
       var myChart = new dimple.chart(svg, data);
       // console.log(data)
       myChart.setBounds(65, 45, 700, 600)
       var x = myChart.addCategoryAxis("x", "rank");
       var y = myChart.addMeasureAxis("y", "Score");
       var s = myChart.addSeries(["name","type" ], dimple.plot.bar );
-      // myChart.addSeries("index", dimple.plot.bubble);
-      // myChart.addSeries("Brand", dimple.plot.line);
-      // Using the afterDraw callback means this code still works with animated
-      // draws (e.g. myChart.draw(1000)) or storyboards (though an onTick callback should
-      // also be used to clear the text from the previous frame)
       s.afterDraw = function (shape, data) {
         // Get the shape as a d3 selection
         var s = d3.select(shape),
