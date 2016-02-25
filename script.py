@@ -8,8 +8,6 @@ data = {}
 with open('data.json') as data_file:    
     data = json.load(data_file)
 
-f= csv.writer(open('test.csv','wb+'))
-
 entries = data['payload']['entries']
 new_data = {}
 new_data_users = []
@@ -56,16 +54,16 @@ new_df = new_df.sort('Score')
 #new_df = new_df[::-1]
 new_df = new_df.reset_index(drop = True)
 number_of_entries = len(new_df['name'])
-top_10 = ['10%'] * (number_of_entries/10)
-top_20 = ['20%'] * (number_of_entries/10)
-top_30 = ['30%'] * (number_of_entries/10)
-top_40 = ['40%'] * (number_of_entries/10)
-top_50 = ['50%'] * (number_of_entries/10)
-top_60 = ['60%'] * (number_of_entries/10)
-top_70 = ['70%'] * (number_of_entries/10)
-top_80 = ['80%'] * (number_of_entries/10)
-top_90 = ['90%'] * (number_of_entries/10)
-top_100 = ['100%'] * (number_of_entries- 9*(number_of_entries/10))
+top_10 = ['0-10%'] * (number_of_entries/10)
+top_20 = ['10-20%'] * (number_of_entries/10)
+top_30 = ['20-30%'] * (number_of_entries/10)
+top_40 = ['30-40%'] * (number_of_entries/10)
+top_50 = ['40-50%'] * (number_of_entries/10)
+top_60 = ['50-60%'] * (number_of_entries/10)
+top_70 = ['60-70%'] * (number_of_entries/10)
+top_80 = ['70-80%'] * (number_of_entries/10)
+top_90 = ['80-90%'] * (number_of_entries/10)
+top_100 = ['90-100%'] * (number_of_entries- 9*(number_of_entries/10))
 new_list = top_10 + top_20 + top_30 + top_40 + top_50 + top_60 + top_70 + top_80 + top_90 + top_100
 new_df['rank'] = new_list
 new_df['index'] = 1

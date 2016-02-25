@@ -43,6 +43,8 @@ html,body {
       var x = myChart.addCategoryAxis("x", "rank");
       var y = myChart.addMeasureAxis("y", "Score");
       var s = myChart.addSeries(["name","type" ], dimple.plot.bar );
+      var axis = dimple.axis(myChart, "x", null, "rank")
+      x.addOrderRule("rank");
       s.afterDraw = function (shape, data) {
         // Get the shape as a d3 selection
         var s = d3.select(shape),
@@ -55,7 +57,6 @@ html,body {
         // Only label bars where the text can fit
         if (rect.height >= 8) {
           // Add a text label for the value
-          console.log(data)
           svg.append("text")
             // Position in the centre of the shape (vertical position is
             // manually set due to cross-browser problems with baseline)
